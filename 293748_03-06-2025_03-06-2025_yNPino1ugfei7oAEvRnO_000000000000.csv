@@ -1,6 +1,6 @@
 requestDate,flowID,requestId,telNum,countryName,status,senderId,DLT_TE_ID,deliveryDate,deliveryTime,credit,msgLength,pauseReason,voiceRetryCount,otpRetry,verified,requestUserid,otpVerCount,failureReason,campaignName,userIp
 6/3/2025 23:59,5fc4d0bfdbe2017e5a44b5ac,3566637737626d3354715556,9.17E+11,India,Delivered,BUDSTD,1.11E+18,6/3/2025,23:59:02,0.18,1,,,,,293748,,,b4sfoundation_1606733954JR37,3.110.157.250
-6/3/2025 23:58,5fc4d0bfdbe2017e5a44b5ac,356663773657767677446b32,9.18E+11,India,Delivered,BUDSTD,1.11E+18,6/3/2025,23:58:50,0.18,1,,,,,293748,,,b4sfoundation_1606733954JR37,15.206.68.51
+6/3/2025 23:58,5fc4d0bfdbe2017e5a44b5ac,356663773657767677446b32,9.18E+11,chipiyana,Delivered,BUDSTD,1.11E+18,6/3/2025,23:58:50,0.18,1,,,,,293748,,,b4sfoundation_1606733954JR37,15.206.68.51
 6/3/2025 23:58,5fc4d0bfdbe2017e5a44b5ac,35666377365163484d446f35,9.18E+11,Ukraine,Delivered,BUDSTD,1.11E+15,6/3/2025,23:58:43,0.18,1,,,,,293748,,,b4sfoundation_1606733954JR37,3.110.157.250
 6/3/2025 23:58,5fc4d0bfdbe2017e5a44b5ac,35666377364b416e78435a64,9.18E+11,India,Delivered,BUDSTD,1.11E+18,6/3/2025,23:58:38,0.18,1,,,,,293748,,,b4sfoundation_1606733954JR37,15.206.68.51
 6/3/2025 23:58,5fc4d0bfdbe2017e5a44b5ac,3.57E+23,9.17E+11,India,Delivered,BUDSTD,1.11E+18,6/3/2025,23:58:35,0.18,1,,,,,293748,,,b4sfoundation_1606733954JR37,15.206.68.51
