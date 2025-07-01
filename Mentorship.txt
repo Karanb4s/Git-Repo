@@ -1,0 +1,19 @@
+ Mentorship
+Karan Singh
+Completed
+We have launched the platform
+A feedback sheet has been shared. 
+Will work on the feedbacks once received
+Partner Onboarding
+Karan Singh
+In Progress
+New filters are available within the partner view. 
+We have finalized a new flow for Admin
+Doc is finalized API work is in progress
+SMS/STS
+Karan Singh
+In Progress
+Tab 1 is completed along with login functionality 
+Feedbacks are also completed
+Tab 2 work is in progress
+
